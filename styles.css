@@ -1,0 +1,30 @@
+body{
+  font-size: 20px;
+  font-family: 'Libre Baskerville', serif;
+  background-color: white;
+  text-align: center;
+
+
+
+
+}
+
+img {
+  border-style: hidden;
+  width: 180px;
+  -webkit-mask-image: -webkit-linear-gradient(left, rgba(0,0,0,1), rgba(0,0,0,0));
+  float: left;
+  border-radius: 30px;
+
+
+
+}
+
+.bar {
+  background-position: top;
+  background color: black;
+  color: white;
+  width: 100px;
+  padding: inherit;
+
+}
